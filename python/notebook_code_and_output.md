@@ -19,4 +19,4 @@ plt.figure(figsize=(10, 7))
 plt.pie(total_exposure_by_country, labels=total_exposure_by_country.index, autopct='%1.1f%%')
 plt.title('Total Exposure by Country')
 plt.show()
-exposure_line.png
+![Multi-Country Exposure Trends](../images/exposure_line.png)
