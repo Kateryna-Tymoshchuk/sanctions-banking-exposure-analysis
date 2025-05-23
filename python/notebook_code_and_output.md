@@ -8,7 +8,6 @@ This document presents a reconstruction of the visualisation process used during
 
 This plot visualises the total accumulated cross-border claims by reporting country.
 
-
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -20,7 +19,6 @@ plt.figure(figsize=(10, 7))
 plt.pie(total_exposure_by_country, labels=total_exposure_by_country.index, autopct='%1.1f%%')
 plt.title('Total Exposure by Country')
 plt.show()
-
+```
 
 ![Multi-Country Exposure Trends](../images/exposure_line.png)
-
