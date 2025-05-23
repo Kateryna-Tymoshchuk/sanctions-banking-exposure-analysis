@@ -1,0 +1,25 @@
+# Sanctions & Banking Exposure: Panel Data Analysis (1993–2023)
+
+This project investigates how Western banks’ cross-border claims on Russian banks were affected by economic sanctions in 2014 and 2022.
+
+## 📊 Tools Used
+- **Stata**: Regression models (FE, RE, PCSE), diagnostic testing (Hausman, Breusch-Pagan, White)
+- **Python**: Visualisation of exposure trends (matplotlib, pandas)
+- **Excel**: Data cleaning and preparation
+
+## 🔍 Methods
+- Panel data regression (PCSE preferred)
+- Country/year trend analysis
+- Robustness checks and interaction terms
+
+## 📁 Contents
+- `/stata`: Explanation of regression models and diagnostic tests
+- `/python`: Visualisation scripts
+- `/data`: Source dataset (if anonymised)
+- `thesis_full.pdf`: Full academic write-up
+
+## 🔗 Thesis
+Full write-up included in `thesis_full.pdf`
+
+## 🔧 Status
+Analysis complete | Public repo to demonstrate applied econometrics and data analytics skills for job applications
