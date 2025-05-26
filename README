@@ -17,9 +17,12 @@ This project investigates how Western banks’ cross-border claims on Russian ba
 - `/python`: Visualisation scripts
 - `/data`: Source dataset (if anonymised)
 - `thesis_full.pdf`: Full academic write-up
+- `/stata`: Panel regression summary and PCSE model (Stata)
 
 ## 🔗 Thesis
 Full write-up included in `thesis_full.pdf`
 
 ## 🔧 Status
 Analysis complete | Public repo to demonstrate applied econometrics and data analytics skills for job applications
+
+📎 See Stata analysis: [`regression_models.md`](stata/regression_models.md)
